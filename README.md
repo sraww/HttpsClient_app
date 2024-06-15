@@ -1,2 +1,2 @@
 # HttpsClient_app_smile
-Application for transferring CSS styles to a text document.
+Тестовое задание middle разработчика C#

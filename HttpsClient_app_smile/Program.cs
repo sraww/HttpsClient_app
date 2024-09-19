@@ -32,4 +32,3 @@ namespace HttpsClient_spp_smile
     }
 }
    
-

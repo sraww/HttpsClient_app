@@ -10,7 +10,7 @@ namespace HttpsClient_spp_smile
     public static string fileOutput = "@D:\\Программы\\Программирование\\Visual studio projects\\HttpsClient_app_smile\\HttpsClient_app_smile\\TextFile1.txt";
         static void Main(string[] args)
     {
-        Console.Write("Вставь ссылку: ");
+        Console.Write("Вставьте ссылку: ");
         string url = Console.ReadLine();
         var awaiter = CallUrl(url);
         if (awaiter.Result !="") 
